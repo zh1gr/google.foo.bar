@@ -61,3 +61,11 @@ Input:
 solution.solution([[0, 1, 0, 0, 0, 1], [4, 0, 0, 3, 2, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0]])
 Output:
     [0, 3, 2, 9, 14]
+
+
+
+
+
+help to understand: `https://github.com/ivanseed/google-foobar-help/blob/master/challenges/doomsday_fuel/doomsday_fuel.md`
+
+help source: `https://github.com/dblVs/Google-foobar/blob/master/doomsday_fuel.py`
