@@ -20,20 +20,28 @@ Note that it may also be run against hidden test cases not shown here.
 
 -- Python cases --
 Input:
-````solution.solution(
+`solution.solution(
 [
     [0, 1, 1, 0],
     [0, 0, 0, 1],
     [1, 1, 0, 0],
     [1, 1, 1, 0]
-])````
+])`
 Output:
-    7
+    `7`
 
 Input:
-solution.solution([[0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 0], [0, 0, 0, 0, 0, 0], [0, 1, 1, 1, 1, 1], [0, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0]])
+`solution.solution(
+[
+    [0, 0, 0, 0, 0, 0],
+    [1, 1, 1, 1, 1, 0],
+    [0, 0, 0, 0, 0, 0],
+    [0, 1, 1, 1, 1, 1],
+    [0, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0]
+])`
 Output:
-    11
+    `11`
 
 -- Java cases --
 Input:
